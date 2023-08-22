@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "https://github.com/gaotianliuyun/gao/blob/master/jar/XYQ.jar;md5;4f4a7b576a92810cf89eb844520ae641",
+    "spider": "https://ghproxy.com/https://github.com/gaotianliuyun/gao/blob/master/jar/XYQ.jar;md5;4f4a7b576a92810cf89eb844520ae641",
     "lives": [
         {
           "name": "直播",
