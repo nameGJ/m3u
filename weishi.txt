@@ -1,7 +1,6 @@
 卫视,#genre#
 CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-安徽卫视 8M,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
 安徽卫视,http://111.59.63.32:9901/tsfile/live/1027_1.m3u8
 安徽卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8
 安徽卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226664/1.m3u8
@@ -10,15 +9,10 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 安徽卫视,http://222.71.90.218:8888/newlive/live/hls/28/live.m3u8
 安徽卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020d0ab40578faaa8a023ce4d5c.m3u8?bitrate=2300&pt=5
 安徽卫视,https://dispatchnew.ulivetv.net/v/live/cgx3d4vuzwe8.m3u8?stream_id=cgx3d4vuzwe8&token=c0vzuc7wqkzk
-安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
-安徽卫视,https://live.goodiptv.club/api/ghyx.php?id=AnHuiHD_6000
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-百变课堂 8M,https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
-宝宝动画 8M,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
 北京财经,https://dispatchnew.ulivetv.net/v/live/cgxaky5ampj4.m3u8?stream_id=cgxaky5ampj4&token=c0vzuc7wqkzk
 北京卡酷少儿,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 北京体育休闲,https://dispatchnew.ulivetv.net/v/live/cgxam6v2ozpc.m3u8?stream_id=cgxam6v2ozpc&token=c0vzuc7wqkzk
-北京卫视 8M,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
 北京卫视,http://111.59.63.32:9901/tsfile/live/1030_1.m3u8
 北京卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
 北京卫视,http://221.2.36.34:8888/newlive/live/hls/19/live.m3u8
@@ -29,77 +23,46 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 北京卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000204b974d7f8ca5b13562b2d820.m3u8?bitrate=2300&pt=5
 北京卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020539e48f392fbcbba5cf7f245.m3u8?bitrate=2300&pt=5
 北京卫视,https://dispatchnew.ulivetv.net/v/live/cgwvkn768jwg.m3u8?stream_id=cgwvkn768jwg&token=c0vzuc7wqkzk
-北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
-北京卫视,https://live.goodiptv.club/api/ghyx.php?id=BTV1HD_6000
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 兵团卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000200a7e4caf973012bf85f33406.m3u8?bitrate=2300&pt=5
-兵团卫视,https://live.goodiptv.club/api/ghyx.php?id=BTTVHD_2000
-茶频道 8M,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
-超级体育 8M,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
 大湾区卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 第一财经,https://dispatchnew.ulivetv.net/v/live/ckwkwro7fwe8.m3u8?stream_id=ckwkwro7fwe8&token=c0vzuc7wqkzk
-电竞天堂 8M,https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
-谍战剧场 8M,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
-东方财经 8M,https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
-东方卫视 8M,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
 东方卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
 东方卫视,http://221.2.36.34:8888/newlive/live/hls/20/live.m3u8
 东方卫视,http://221.213.43.82:8888/newlive/live/hls/20/live.m3u8
 东方卫视,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8
 东方卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000203860417eb7f08f9270fc1155.m3u8?bitrate=2300&pt=5
 东方卫视,https://dispatchnew.ulivetv.net/v/live/cgwvmejnjcg0.m3u8?stream_id=cgwvmejnjcg0&token=c0vzuc7wqkzk
-东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
-东方卫视,https://live.goodiptv.club/api/ghyx.php?id=DongFangHD_6000
-东方影视 8M,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
-东南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
 东南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226670/1.m3u8?
 东南卫视,http://221.2.36.34:8888/newlive/live/hls/44/live.m3u8
 东南卫视,http://222.71.90.218:8888/newlive/live/hls/29/live.m3u8
 东南卫视,http://api3.52tb.xyz/info?id=29&token=20230227aesvnb
 东南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020c18c4f03a2107aa78ced8fff.m3u8?bitrate=2300&pt=5
 东南卫视,https://dispatchnew.ulivetv.net/v/live/cgwvn8vw4zi8.m3u8?stream_id=cgwvn8vw4zi8&token=c0vzuc7wqkzk
-东南卫视,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
-东南卫视,https://live.goodiptv.club/api/ghyx.php?id=FuJianHD_6000
-动漫秀场 8M,https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
-都市剧场 8M,https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
-法治天地 8M,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
-甘肃卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
 甘肃卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000206da44fde810a98a3d7848f82.m3u8?bitrate=2300&pt=5
 甘肃卫视,https://dispatchnew.ulivetv.net/v/live/cgwvnvzbcatc.m3u8?stream_id=cgwvnvzbcatc&token=c0vzuc7wqkzk
-甘肃卫视,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
-甘肃卫视,https://live.goodiptv.club/api/ghyx.php?id=GanSuHD2_6000
 广东体育,https://dispatchnew.ulivetv.net/v/live/cgxanasc9q68.m3u8?stream_id=cgxanasc9q68&token=c0vzuc7wqkzk
-广东卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
 广东卫视,http://111.59.63.32:9901/tsfile/live/1032_1.m3u8
 广东卫视,http://221.2.36.34:8888/newlive/live/hls/21/live.m3u8
 广东卫视,http://221.213.43.82:8888/newlive/live/hls/21/live.m3u8
 广东卫视,http://222.71.90.218:8888/newlive/live/hls/23/live.m3u8
 广东卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000206bc6413cb38dc9ca586ffe3f.m3u8?bitrate=2300&pt=5
 广东卫视,https://dispatchnew.ulivetv.net/v/live/cgwvo5slhbcw.m3u8?stream_id=cgwvo5slhbcw&token=c0vzuc7wqkzk
-广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-广东卫视,https://live.goodiptv.club/api/ghyx.php?id=GuangDongHD_6000
 广东珠江,https://dispatchnew.ulivetv.net/v/live/ckwku6d5hgw0.m3u8?stream_id=ckwku6d5hgw0&token=c0vzuc7wqkzk
-广西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
 广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
 广西卫视,http://221.2.36.34:8888/newlive/live/hls/26/live.m3u8
 广西卫视,http://221.213.43.82:8888/newlive/live/hls/26/live.m3u8
 广西卫视,http://222.71.90.218:8888/newlive/live/hls/40/live.m3u8
 广西卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020731348f098457f0080cdf72c.m3u8?bitrate=2300&pt=5
 广西卫视,https://dispatchnew.ulivetv.net/v/live/cgwvoiircukg.m3u8?stream_id=cgwvoiircukg&token=c0vzuc7wqkzk
-广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-广西卫视,https://live.goodiptv.club/api/ghyx.php?id=GuangXiHD_6000
-贵州卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
 贵州卫视,http://111.59.63.32:9901/tsfile/live/1036_1.m3u8
 贵州卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
 贵州卫视,http://221.2.36.34:8888/newlive/live/hls/29/live.m3u8
 贵州卫视,http://221.213.43.82:8888/newlive/live/hls/29/live.m3u8
 贵州卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
 贵州卫视,https://dispatchnew.ulivetv.net/v/live/cgwvovrpyvgg.m3u8?stream_id=cgwvovrpyvgg&token=c0vzuc7wqkzk
-贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
-贵州卫视,https://live.goodiptv.club/api/ghyx.php?id=GuiZhouHD_2000
-海南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
 海南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8
 海南卫视,http://221.2.36.34:8888/newlive/live/hls/47/live.m3u8
 海南卫视,http://221.213.43.82:8888/newlive/live/hls/50/live.m3u8
@@ -109,10 +72,7 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 海南卫视,http://api3.52tb.xyz/info?id=38&token=20230227aesvnb
 海南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020741c4046820cd89d5ecbd401.m3u8?bitrate=2300&pt=5
 海南卫视,https://dispatchnew.ulivetv.net/v/live/cgwvp8nuloe8.m3u8?stream_id=cgwvp8nuloe8&token=c0vzuc7wqkzk
-海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
-海南卫视,https://live.goodiptv.club/api/ghyx.php?id=LvYouWeiShiHD_6000
 海峡卫视,https://dispatchnew.ulivetv.net/v/live/cgwvnm2cuny8.m3u8?stream_id=cgwvnm2cuny8&token=c0vzuc7wqkzk
-河北卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
 河北卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8
 河北卫视,http://183.196.25.171:808/hls/16/index.m3u8
 河北卫视,http://221.2.36.34:8888/newlive/live/hls/46/live.m3u8
@@ -121,18 +81,12 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.flv
 河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
 河北卫视,https://dispatchnew.ulivetv.net/v/live/cgwvpk4zt39c.m3u8?stream_id=cgwvpk4zt39c&token=c0vzuc7wqkzk
-河北卫视,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
-河北卫视,https://live.goodiptv.club/api/ghyx.php?id=HeBeiHD_6000
-河南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
 河南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
 河南卫视,http://221.213.43.82:8888/newlive/live/hls/33/live.m3u8
 河南卫视,http://api3.52tb.xyz/info?id=31&token=20230227aesvnb
 河南卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000201d7c47a8b9b127d69fb816ac.m3u8?bitrate=2300&pt=5
 河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
 河南卫视,https://dispatchnew.ulivetv.net/v/live/cgx3dhp7qri8.m3u8?stream_id=cgx3dhp7qri8&token=c0vzuc7wqkzk
-河南卫视,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
-河南卫视,https://live.goodiptv.club/api/ghyx.php?id=HeNanHD_6000
-黑龙江卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
 黑龙江卫视,http://111.59.63.32:9901/tsfile/live/1045_1.m3u8
 黑龙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
 黑龙江卫视,http://221.2.36.34:8888/newlive/live/hls/45/live.m3u8
@@ -143,9 +97,6 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 黑龙江卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020281749ed995f2824759051fa.m3u8?bitrate=2300&pt=5
 黑龙江卫视,https://dispatchnew.ulivetv.net/v/live/cgwvptziwa0w.m3u8?stream_id=cgwvptziwa0w&token=c0vzuc7wqkzk
-黑龙江卫视,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
-黑龙江卫视,https://live.goodiptv.club/api/ghyx.php?id=HeiLongJiangHD_6000
-湖北卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
 湖北卫视,http://111.59.63.32:9901/tsfile/live/1044_1.m3u8
 湖北卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226713/1.m3u8
 湖北卫视,http://221.2.36.34:8888/newlive/live/hls/34/live.m3u8
@@ -154,10 +105,7 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 湖北卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225760/index.m3u8
 湖北卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020273747628129718a5717b2dd.m3u8?bitrate=2300&pt=5
 湖北卫视,https://dispatchnew.ulivetv.net/v/live/cgwvq50s8xq8.m3u8?stream_id=cgwvq50s8xq8&token=c0vzuc7wqkzk
-湖北卫视,https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
-湖北卫视,https://live.goodiptv.club/api/ghyx.php?id=HuBeiHD_6000
 湖南卫视 (576p),http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8
-湖南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 湖南卫视,http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
 湖南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
 湖南卫视,http://221.2.36.34:8888/newlive/live/hls/23/live.m3u8
@@ -166,11 +114,6 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 湖南卫视,http://223.151.51.27:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020c9ea4ce4bf3cfbbb7f8b8bb7.m3u8?bitrate=2300&pt=5
 湖南卫视,https://dispatchnew.ulivetv.net/v/live/cgwvl62c4og0.m3u8?stream_id=cgwvl62c4og0&token=c0vzuc7wqkzk
-湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
-湖南卫视,https://live.goodiptv.club/api/ghyx.php?id=HuNanHD_6000
-华语影院 8M,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
-欢笑剧场 8M,https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
-吉林卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
 吉林卫视,http://111.59.63.32:9901/tsfile/live/1043_1.m3u8
 吉林卫视,http://221.2.36.34:8888/newlive/live/hls/35/live.m3u8
 吉林卫视,http://221.213.43.82:8888/newlive/live/hls/35/live.m3u8
@@ -179,11 +122,6 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 吉林卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000205c15461b956f19f9b6896ad6.m3u8?bitrate=2300&pt=5
 吉林卫视,http://stream1.jlntv.cn/jlws/playlist.m3u8
 吉林卫视,https://dispatchnew.ulivetv.net/v/live/cgwvqoks4q0w.m3u8?stream_id=cgwvqoks4q0w&token=c0vzuc7wqkzk
-吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
-吉林卫视,https://live.goodiptv.club/api/ghyx.php?id=JiLinWeiShiHD_6000
-纪实科教 8M,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
-健康养生 8M,https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
-江苏卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
 江苏卫视,http://111.59.63.32:9901/tsfile/live/1025_1.m3u8
 江苏卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
 江苏卫视,http://221.2.36.34:8888/newlive/live/hls/22/live.m3u8
@@ -192,9 +130,6 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
 江苏卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000201708473e9f4e1dbb0361de6b.m3u8?bitrate=2300&pt=5
 江苏卫视,https://dispatchnew.ulivetv.net/v/live/cgwvmpf84bsw.m3u8?stream_id=cgwvmpf84bsw&token=c0vzuc7wqkzk
-江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
-江苏卫视,https://live.goodiptv.club/api/ghyx.php?id=JiangSuHD_6000
-江西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
 江西卫视,http://111.59.63.32:9901/tsfile/live/1042_1.m3u8
 江西卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226682/1.m3u8
 江西卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226726/1.m3u8
@@ -203,16 +138,7 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 江西卫视,http://222.71.90.218:8888/newlive/live/hls/30/live.m3u8
 江西卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020728a439baf65ce94f8cf3e30.m3u8?bitrate=2300&pt=5
 江西卫视,https://dispatchnew.ulivetv.net/v/live/cgwvqdlj74cg.m3u8?stream_id=cgwvqdlj74cg&token=c0vzuc7wqkzk
-江西卫视,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-江西卫视,https://live.goodiptv.club/api/ghyx.php?id=JiangXiHD_6000
-金色学堂 8M,https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
-金鹰纪实 8M,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
-劲爆体育 8M,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-卡酷少儿 8M,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
-看天下精选 8M,https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
-快乐垂钓 8M,https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
 辽宁体育,https://dispatchnew.ulivetv.net/v/live/cgxamzvb8vk0.m3u8?stream_id=cgxamzvb8vk0&token=c0vzuc7wqkzk
-辽宁卫视 8M,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
 辽宁卫视,http://115.149.139.141:10001/tsfile/live/1028_1.m3u8
 辽宁卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
 辽宁卫视,http://221.2.36.34:8888/newlive/live/hls/43/live.m3u8
@@ -220,28 +146,21 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 辽宁卫视,http://222.71.90.218:8888/newlive/live/hls/31/live.m3u8
 辽宁卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002019d84b0ba201007677bbf28c.m3u8?bitrate=2300&pt=5
 辽宁卫视,https://dispatchnew.ulivetv.net/v/live/cgwvr05o6nk0.m3u8?stream_id=cgwvr05o6nk0&token=c0vzuc7wqkzk
-辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-辽宁卫视,https://live.goodiptv.club/api/ghyx.php?id=LiaoNingHD_6000
 辽宁影视剧,http://42.176.185.28:9901/tsfile/live/1012_1.m3u8
-魅力足球 8M,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 南方卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 南方卫视,https://dispatchnew.ulivetv.net/v/live/cgwvrf1besw0.m3u8?stream_id=cgwvrf1besw0&token=c0vzuc7wqkzk
 内蒙古卫视,http://222.71.90.218:8888/newlive/live/hls/46/live.m3u8
 内蒙古卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020eeba44449d4f4913a2897e4e.m3u8?bitrate=2300&pt=5
 内蒙古卫视,https://dispatchnew.ulivetv.net/v/live/cgwvrqb6evgg.m3u8?stream_id=cgwvrqb6evgg&token=c0vzuc7wqkzk
-内蒙古卫视,https://live.goodiptv.club/api/ghyx.php?id=NeiMengGuHD_2000
 宁夏卫视,http://111.59.63.32:9901/tsfile/live/1040_1.m3u8
 宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
 宁夏卫视,http://222.71.90.218:8888/newlive/live/hls/42/live.m3u8
 宁夏卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000205dfa4e06bf7243e30e5182c8.m3u8?bitrate=2300&pt=5
 宁夏卫视,https://dispatchnew.ulivetv.net/v/live/cgwvs6rwtha8.m3u8?stream_id=cgwvs6rwtha8&token=c0vzuc7wqkzk
 宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
-宁夏卫视,https://live.goodiptv.club/api/ghyx.php?id=NingXiaHD_2000
 农林卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
-七彩戏剧 8M,https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
-青春动漫 8M,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
 青海卫视,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8
 青海卫视,http://221.213.43.82:8888/newlive/live/hls/39/live.m3u8
@@ -252,25 +171,15 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
 青海卫视,https://dispatchnew.ulivetv.net/v/live/cgx3cr9px5ts.m3u8?stream_id=cgx3cr9px5ts&token=c0vzuc7wqkzk
-青海卫视,https://live.goodiptv.club/api/ghyx.php?id=QingHaiHD_2000
-全纪实 8M,https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
-全球大片 8M,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
-热门剧场 8M,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
-热门综艺 8M,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-三沙卫视,https://live.goodiptv.club/api/ghyx.php?id=SanShaHD2_6000
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 厦门卫视,https://dispatchnew.ulivetv.net/v/live/cgwvuwd6098g.m3u8?stream_id=cgwvuwd6098g&token=c0vzuc7wqkzk
-厦门卫视,https://live.goodiptv.club/api/ghyx.php?id=XiaMenHD_2000
-山东卫视 8M,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
 山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
 山东卫视,http://221.2.36.34:8888/newlive/live/hls/30/live.m3u8
 山东卫视,http://221.213.43.82:8888/newlive/live/hls/30/live.m3u8
 山东卫视,http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8
 山东卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002013f84d40a0393b8549e48805.m3u8?bitrate=2300&pt=5
 山东卫视,https://dispatchnew.ulivetv.net/v/live/cgwvsyb0j4cg.m3u8?stream_id=cgwvsyb0j4cg&token=c0vzuc7wqkzk
-山东卫视,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
-山东卫视,https://live.goodiptv.club/api/ghyx.php?id=ShanDongHD_6000
 山西卫视,http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
 山西卫视,http://221.213.43.82:8888/newlive/live/hls/48/live.m3u8
 山西卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?
@@ -278,21 +187,12 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 山西卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?
 山西卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020ed0a4b74afc7e496c1bcc45c.m3u8?bitrate=2300&pt=5
 山西卫视,https://dispatchnew.ulivetv.net/v/live/cgwvt9ytgse8.m3u8?stream_id=cgwvt9ytgse8&token=c0vzuc7wqkzk
-山西卫视,https://live.goodiptv.club/api/ghyx.php?id=ShanXiHD_2000
 陕西卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
 陕西卫视,http://222.71.90.218:8888/newlive/live/hls/45/live.m3u8
 陕西卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002019984c0fa29ae0d57380da3a.m3u8?bitrate=2300&pt=5
 陕西卫视,https://dispatchnew.ulivetv.net/v/live/cgwvsn6paxfk.m3u8?stream_id=cgwvsn6paxfk&token=c0vzuc7wqkzk
-陕西卫视,https://live.goodiptv.club/api/ghyx.php?id=ShanXiHD2_6000
-上海第一财经 8M,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
-上海都市 8M,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
 上海都市,https://dispatchnew.ulivetv.net/v/live/cgxal7azq8jk.m3u8?stream_id=cgxal7azq8jk&token=c0vzuc7wqkzk
-上海纪实 8M,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
-上海教育 8M,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
 上海新闻,https://dispatchnew.ulivetv.net/v/live/cgxalg4ysx4w.m3u8?stream_id=cgxalg4ysx4w&token=c0vzuc7wqkzk
-上视外语 8M,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
-上视新闻 8M,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
-深圳卫视 8M,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
 深圳卫视,http://111.59.63.32:9901/tsfile/live/1033_1.m3u8
 深圳卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8
 深圳卫视,http://221.2.36.34:8888/newlive/live/hls/28/live.m3u8
@@ -303,20 +203,12 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 深圳卫视,http://api3.52tb.xyz/info?id=28&token=20230227aesvnb
 深圳卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020289041678b7585eb32637331.m3u8?bitrate=2300&pt=5
 深圳卫视,https://dispatchnew.ulivetv.net/v/live/cgwvto57pvwg.m3u8?stream_id=cgwvto57pvwg&token=c0vzuc7wqkzk
-深圳卫视,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
-深圳卫视,https://live.goodiptv.club/api/ghyx.php?id=ShenZhenHD_6000
-生活时尚 8M,https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
-四川卫视 8M,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
 四川卫视,http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
 四川卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226659/1.m3u8
 四川卫视,http://221.2.36.34:8888/newlive/live/hls/32/live.m3u8
 四川卫视,http://221.213.43.82:8888/newlive/live/hls/32/live.m3u8
 四川卫视,https://dispatchnew.ulivetv.net/v/live/cgwvu1zegukg.m3u8?stream_id=cgwvu1zegukg&token=c0vzuc7wqkzk
-四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
-四川卫视,https://live.goodiptv.club/api/ghyx.php?id=SiChuanHD_6000
-陶瓷高清 8M,https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
 天津体育,https://dispatchnew.ulivetv.net/v/live/cgxamprz0kw0.m3u8?stream_id=cgxamprz0kw0&token=c0vzuc7wqkzk
-天津卫视 8M,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
 天津卫视,http://111.59.63.32:9901/tsfile/live/1047_1.m3u8
 天津卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
 天津卫视,http://221.2.36.34:8888/newlive/live/hls/42/live.m3u8
@@ -324,9 +216,6 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 天津卫视,http://222.71.90.218:8888/newlive/live/hls/32/live.m3u8
 天津卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8
 天津卫视,https://dispatchnew.ulivetv.net/v/live/cgwvuduf3ykg.m3u8?stream_id=cgwvuduf3ykg&token=c0vzuc7wqkzk
-天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
-天津卫视,https://live.goodiptv.club/api/ghyx.php?id=TianJinHD_6000
-五星体育 8M,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://dispatchnew.ulivetv.net/v/live/cgxamfznu56o.m3u8?stream_id=cgxamfznu56o&token=c0vzuc7wqkzk
 西藏藏语卫视,http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
 西藏卫视,http://221.2.36.34:8888/newlive/live/hls/37/live.m3u8
@@ -334,15 +223,9 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 西藏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?
 西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 西藏卫视,https://dispatchnew.ulivetv.net/v/live/cgx3c49cldq8.m3u8?stream_id=cgx3c49cldq8&token=c0vzuc7wqkzk
-西藏卫视,https://live.goodiptv.club/api/ghyx.php?id=XiZangHD_2000
-戏曲精选 8M,https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
 新疆卫视,http://221.2.36.34:8888/newlive/live/hls/38/live.m3u8
 新疆卫视,http://222.71.90.218:8888/newlive/live/hls/47/live.m3u8
 新疆卫视,https://dispatchnew.ulivetv.net/v/live/cgx3bru59t4w.m3u8?stream_id=cgx3bru59t4w&token=c0vzuc7wqkzk
-新疆卫视,https://live.goodiptv.club/api/ghyx.php?id=XinJiangHD_2000
-新视觉 8M,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-星光影院 8M,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
-炫动卡通 8M,https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
 延边TV,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 延边卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
@@ -350,17 +233,12 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-游戏风云 8M,https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
-云南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
 云南卫视,http://221.2.36.34:8888/newlive/live/hls/27/live.m3u8
 云南卫视,http://221.213.43.82:8888/newlive/live/hls/27/live.m3u8
 云南卫视,http://222.71.90.218:8888/newlive/live/hls/39/live.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
 云南卫视,https://dispatchnew.ulivetv.net/v/live/cgx3ceil31s0.m3u8?stream_id=cgx3ceil31s0&token=c0vzuc7wqkzk
-云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
-云南卫视,https://live.goodiptv.club/api/ghyx.php?id=YunNanHD2_6000
-浙江卫视 8M,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
 浙江卫视,http://111.59.63.32:9901/tsfile/live/1031_1.m3u8
 浙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8
 浙江卫视,http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8
@@ -374,18 +252,11 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
 浙江卫视,https://dispatchnew.ulivetv.net/v/live/cgwvlwcmnw74.m3u8?stream_id=cgwvlwcmnw74&token=c0vzuc7wqkzk
-浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-浙江卫视,https://live.goodiptv.club/api/ghyx.php?id=ZheJiangHD_6000
 直播源合集,http://52bsj.vip:81/api/v3/file/get/136417/dsm.mp4?sign=6oEE-N8RaOjpT8WDaT-XBIeK_LFbJlvk9r53TwBiVag%3D%3A0
-中国教育-1 8M,https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
-中国教育-4 8M,https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
-重庆卫视 8M,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
 重庆卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
 重庆卫视,http://221.2.36.34:8888/newlive/live/hls/31/live.m3u8
 重庆卫视,http://221.213.43.82:8888/newlive/live/hls/31/live.m3u8
 重庆卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225791/index.m3u8
 重庆卫视,https://dispatchnew.ulivetv.net/v/live/cgwvmz9yp7ls.m3u8?stream_id=cgwvmz9yp7ls&token=c0vzuc7wqkzk
-重庆卫视,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
-重庆卫视,https://live.goodiptv.club/api/ghyx.php?id=ChongQingHD_6000
 重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
-足球高清 8M,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
+
